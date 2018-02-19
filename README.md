@@ -1,7 +1,5 @@
 # Kjellpackage
 
-Count characters.
-
 ## Installation
 
 [npm][]:
